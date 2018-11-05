@@ -6,6 +6,7 @@ Slovník technických pojmov použitých v Monero software (monero-wallet-gui, m
 | Blockchain | Blockchain | reťaz blokov |
 | Block reward | Odmena za blok | |
 | Daemon | Daemon, démon | Služba (server) , ktorá  preposiela transakcie, overuje transakcie a tvorí tak plnohodnotný uzol siete. V závislosti od konfigurácie, môže aj ťažiť bloky. |
+| Fork | Fork | Rozvetvenie blockchainu pri vzájomnej nekompatibilite |
 | Input | Vstup |  |
 | Integrated address | Integrovaná adresa| |
 | Issuer | Vydavateľ | |
