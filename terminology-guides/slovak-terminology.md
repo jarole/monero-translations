@@ -5,9 +5,7 @@ Slovník technických pojmov použitých v Monero software (monero-wallet-gui, m
 | --- | --- | --- |
 | Blockchain | Blockchain | reťaz blokov |
 | Block reward | Odmena za blok | |
-| Commit | | |
 | Daemon | Daemon, démon | |
-| Decoy | | |
 | Input | Vstup | |
 | Integrated address | Integrovaná adresa| |
 | Issuer | Vydavateľ | |
@@ -18,7 +16,6 @@ Slovník technických pojmov použitých v Monero software (monero-wallet-gui, m
 | One-time | Jednorazový | |
 | Output | Výstup | |
 | Pool | Pool | skupina ťažiarov ťažiaca spolu, pričom zisk z vyťaženého bloku sa proporcionálne rozdelí podľa poskytnutého výkonu  |
-| Range Proof(s) | |  |
 | Restore height | Výška  | Poradové číslo bloku |
 | RingCT | RingCT | Skratka pre Ring Confidential Transactions = Tajné transakcie okruhu |
 | Ring confidential transaction | Tajné transakcie okruhu (RingCT) | |
