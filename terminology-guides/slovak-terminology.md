@@ -8,29 +8,29 @@ Slovník technických pojmov použitých v Monero software (monero-wallet-gui, m
 | Commit | | |
 | Daemon | Daemon, démon | |
 | Decoy | | |
-| Input | Entrée | |
-| Integrated address | Adresse intégrée| |
-| Issuer | | |
-| Key Image | Image clef | |
-| Miner | Mineur | |
-| Mining | Extraction minière | cf. Portefeuilles CLI/GUI  |
-| Mnemonic seed | Phrase mnémonique | cf. Portefeuilles CLI/GUI  |
-| One-time | à usage unique | |
-| Output | Sortie | |
-| Pool | Pool | Pool est aussi un mot français |
-| Range Proof(s) | preuve à divulgation nulle de connaissance | terme de cryptographie |
-| Restore height | Hauteur de restauration | |
-| RingCT | Transaction confidentielles de cercle (RingCT) | A traduire, mais garder la notion RingCT à proximité |
-| Ring confidential transaction | Transaction confidentielles de cercle (RingCT) |  idem|
-| Ring signature | Signatures de cercle | notion de crypto déjà traduite de la sorte en français, cf. wikipedia |
-| Ringsize | Taille du cercle | cf. Portefeuilles |
-| Recipient | Destinataire | |
-| Seed | Phrase mnémonique | Le portefeuille peut faire référence à Phrase mnémonique ou à Graine. Phrase mnémonique est plus parlant |
-| Sender | Emmeteur | |
-| Signer | Signataires | |
-| Spend Key | Clef de dépense | |
-| Stealth address | Adresse furtive | |
-| Untraceable | intraçable | |
-| View-Only | Audit | |
-| View Key | Clef d'audit| |
-| Wallet | Portefeuille | |
+| Input | Vstup | |
+| Integrated address | Integrovaná adresa| |
+| Issuer | Vydavateľ | |
+| Key Image | Obraaz kľúča | |
+| Miner | ťažiar | |
+| Mining | ťažba |   |
+| Mnemonic seed | mnemotechnický seed | seed/fráza, tvorí ho/ju (zvyčajne) 25 slov, v určitom poradí, z ktorých sa cez algoritmy dá kedykoľvek vygenerovať súkromný kľúč peňaženky, a teda sa považuje za zálohu peňaženky. Nestratiť, uložiť na bezpečnom mieste.  |
+| One-time | Jednorazový | |
+| Output | Výstup | |
+| Pool | Pool | skupina ťažiarov ťažiaca spolu, pričom zisk z vyťaženého bloku sa proporcionálne rozdelí podľa poskytnutého výkonu  |
+| Range Proof(s) | |  |
+| Restore height | Výška  | Poradové číslo bloku |
+| RingCT | RingCT | Skratka pre Ring Confidential Transactions = Tajné transakcie okruhu |
+| Ring confidential transaction | Tajné transakcie okruhu (RingCT) | |
+| Ring signature | kruhový podpis |  |
+| Ringsize | veľkosť kruhu | v starších verziách protokolu voliteľný parameter, od verzie protokolu 9 (monerod 0.13+) je fixný = 11 |
+| Recipient | Príjemca, Prijímateľ | Príjemca, ktorého adresa je cieľom pre novú transakciu |
+| Seed | Seed, fráza | pozri Mnemotechnický seed |
+| Sender | Odosielateľ | Ten kto posiela Monero a podpisuje transakciu privátnym kľúčom |
+| Signer | Podpisujúci | |
+| Spend Key | Platobný kľúč, Míňací kľúč | súkromný kľúč potrebný na podpísanie a teda odoslanie, uskotočnenie transacie |
+| Stealth address | Skrytá adresa | |
+| Untraceable | Nesledovateľný | |
+| View-Only | Prezeracia | Peňaženka len na čítanie, čiže prezeranie transakcií a zostatku. Nedá sa s ňou platiť. |
+| View Key | Prezerací kľúč | súkromný kľúč, ktorý umožňuje nahliadnuť do blockchain |
+| Wallet | Peňaženka | |
