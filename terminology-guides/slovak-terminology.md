@@ -31,6 +31,6 @@ Slovník technických pojmov použitých v Monero software (monero-wallet-gui, m
 | Spend Key | Platobný kľúč, Míňací kľúč | súkromný kľúč potrebný na podpísanie a teda odoslanie, uskotočnenie transacie |
 | Stealth address | Skrytá adresa | |
 | Untraceable | Nesledovateľný | |
-| View-Only | Prezeracia | Peňaženka len na čítanie, čiže prezeranie transakcií a zostatku. Nedá sa s ňou platiť. |
+| View-Only | Prezeracia, Iba na čítanie | Peňaženka len na čítanie, čiže prezeranie transakcií a zostatku. Nedá sa s ňou platiť. |
 | View Key | Prezerací kľúč | súkromný kľúč, ktorý umožňuje nahliadnuť do blockchain |
 | Wallet | Peňaženka | |
