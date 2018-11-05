@@ -30,4 +30,4 @@ Slovník technických pojmov použitých v Monero software (monero-wallet-gui, m
 | Untraceable | Nesledovateľný | |
 | View-Only | Prezeracia, Iba na čítanie | Peňaženka len na čítanie, čiže prezeranie transakcií a zostatku. Nedá sa s ňou platiť. |
 | View Key | Prezerací kľúč | súkromný kľúč, ktorý umožňuje nahliadnuť do blockchain |
-| Wallet | Peňaženka | |
+| Wallet | Peňaženka | Software na správu kľúčov a transakcií |
