@@ -5,8 +5,8 @@ Slovník technických pojmov použitých v Monero software (monero-wallet-gui, m
 | --- | --- | --- |
 | Blockchain | Blockchain | reťaz blokov |
 | Block reward | Odmena za blok | |
-| Daemon | Daemon, démon | |
-| Input | Vstup | |
+| Daemon | Daemon, démon | Služba (server) , ktorá  preposiela transakcie, overuje transakcie a tvorí tak plnohodnotný uzol siete. V závislosti od konfigurácie, môže aj ťažiť bloky. |
+| Input | Vstup | Vstup transakcie, je vlastne výstup inýách transakcií, ktoré preukazujú |
 | Integrated address | Integrovaná adresa| |
 | Issuer | Vydavateľ | |
 | Key Image | Obraaz kľúča | |
